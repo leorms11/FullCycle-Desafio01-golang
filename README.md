@@ -1,4 +1,4 @@
-# Dev FullCycle - Desafio 01: Criar uma imagem com Golang com tamanho menor que 2Mb
+# Dev FullCycle - Desafio 01: Publicar uma imagem baseada no Golang com tamanho menor que 2Mb
 
 ## 🚀 Descrição:
 Publicar uma imagem no docker hub com tamanho <= 2Mb que ao executar 
